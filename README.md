@@ -1,1 +1,1 @@
-# Chatbot using java swing library
+# Chatbot with java swing GUI
